@@ -87,11 +87,10 @@ h3{
 }
 
 #id{
-    border: solid;
-    border-radius: 0.5rem;
+    border: 0.2rem solid;
+    border-radius: 0.5em;
     display: inline;
     text-align: center;
-    border-color: white;
 }
 
 .editorial{
