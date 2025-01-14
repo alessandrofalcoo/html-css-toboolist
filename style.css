@@ -1,10 +1,20 @@
 :root{
-    --first-color: #48aef1;
-    --second-color: #9c72e4;
-    --third-color: #64c0a9;
-    --fourth-color: #f29e33;
-    --fifth-color: #e3e6e8;
-    --sixth-color: #d863a0;
-    --seventh-color: #b0c926;
-    --eighth-color: #323232;
+    --tobool-editorial: #48aef1;
+    --tobool-Q1-Goals: #9c72e4;
+    --tobool-recruiting: #64c0a9;
+    --tobool-mobile: #f29e33;
+    --toobool-addSection: #e3e6e8;
+    --tobool-website: #d863a0;
+    --tobool-sales: #b0c926;
+    --main-color: #323232;
+}
+
+main{
+    background-color: #e3e6e8b9;
+}
+
+.container{
+    background-color: white;
+    box-sizing: border-box;
+    
 }
