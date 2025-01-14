@@ -12,6 +12,8 @@
 body{
     margin: 0;
     background-color: var(--toobool-addSection) ;
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
 }
 
 h1{
@@ -83,3 +85,42 @@ h3{
     border-radius: 50%;
     border: solid;
 }
+
+#id{
+    border: solid;
+    border-radius: 0.5rem;
+    display: inline;
+    text-align: center;
+    border-color: white;
+}
+
+.editorial{
+    background-color: var(--tobool-editorial);
+    color: white;
+}
+
+.q1_goals{
+    background-color: var(--tobool-Q1-Goals);
+    color: white;
+}
+
+.recruiting{
+    background-color: var(--tobool-recruiting);
+    color: white;
+}
+
+.mobile{
+    background-color: var(--tobool-mobile);
+    color: white;
+}
+
+.website{
+    background-color: var(--tobool-website);
+    color: white;
+}
+
+.sales{
+    background-color: var(--tobool-sales);
+    color: white;
+}
+
