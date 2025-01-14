@@ -9,12 +9,77 @@
     --main-color: #323232;
 }
 
-main{
-    background-color: #e3e6e8b9;
+body{
+    margin: 0;
+    background-color:#e3e6e8 ;
 }
 
-.container{
+h1{
+    display: inline;
+    vertical-align: middle;
+}
+
+.site_header{
     background-color: white;
-    box-sizing: border-box;
-    
+}
+
+hr{
+    background-color: var(--toobool-addSection);
+}
+
+
+.buttons_container{
+    background-color: white;
+    padding-top: 1.5rem;
+    padding-left: 1rem;
+}
+
+#button{
+    border-radius: 0.2rem;
+    display: inline;
+    text-align: center;
+}
+
+.add_task{
+    background-color: var(--tobool-editorial);
+    color: white;
+    border: none;
+   
+}
+
+.add_section{
+    background-color: white;
+    color: var(--toobool-addSection);
+    border-color: var(--toobool-addSection);
+}
+
+
+
+.main_container{
+    background-color: white;
+    margin: 10%;
+
+}
+
+h3{
+    display: inline;
+}
+
+.task_container{
+    padding: 2rem 0.5rem 2rem 2rem;
+}
+
+
+
+.check{
+    color: rgb(50, 190, 50);
+    border-radius: 50%;
+    border: solid;
+}
+
+
+.cross{
+    color: rgb(245, 107, 107);
+    border-radius: 50%;
+    border: solid;
 }
