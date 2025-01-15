@@ -16,6 +16,10 @@ body{
     font-optical-sizing: auto;
 }
 
+img{
+    vertical-align: middle;
+}
+
 h1{
     display: inline;
     vertical-align: middle;
