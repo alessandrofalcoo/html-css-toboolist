@@ -12,8 +12,8 @@
 body{
     margin: 0;
     background-color: var(--toobool-addSection) ;
-  font-family: "Roboto", serif;
-  font-optical-sizing: auto;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
 }
 
 h1{
@@ -74,14 +74,14 @@ h3{
 
 
 .check{
-    color: rgb(50, 190, 50);
+    color: #70c6b2;
     border-radius: 50%;
     border: solid;
 }
 
 
 .cross{
-    color: rgb(245, 107, 107);
+    color: #ee657f;
     border-radius: 50%;
     border: solid;
 }
